@@ -1,4 +1,8 @@
-## Hi there 👋
+#  SuperPower
+<div align="center">
+  <img src="https://github.com/TongjiSuperPower/.github/blob/main/profile/fig1.png">
+</div>
+
 
 <!--
 
