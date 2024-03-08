@@ -1,6 +1,6 @@
 #  SuperPower
 <div align="center">
-  <img src="https://github.com/TongjiSuperPower/.github/blob/main/profile/fig1.png">
+  <img src="https://github.com/TongjiSuperPower/.github/blob/main/profile/fig.png">
 </div>
 
 
